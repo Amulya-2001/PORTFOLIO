@@ -63,6 +63,15 @@
 			border-radius: 30px;
 
 		}
+		.sec1:hover{
+			background-color: #FE0297;
+		}
+		.sec2:hover{
+			background-color: #FE0297;
+		}
+		.sec3:hover{
+			background-color: #FE0297;
+		}
 		.models img{
 			width: 100%;
 		}
