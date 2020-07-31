@@ -149,11 +149,24 @@
 			border-radius: 35px;
 			box-shadow: 5px 5px 5px #000;
 		}
+		.sec1:hover{
+			background-color: #FE0297;
+		}
+		.sec2:hover{
+			background-color: #FE0297;
+		}
+		.sec3:hover{
+			background-color: #FE0297;
+		}
 		
 		.btn{
 			margin-left: 135px;
 			
 			padding:1%; 
+		}
+		.btn:hover{
+			background-color: #000;
+			color: #fff;
 		}
 		}
 		@media only screen and (min-width: 768px) and (max-width: 1023px){
@@ -196,9 +209,22 @@
 			border-radius: 35px;
 			box-shadow: 5px 5px 5px #000;
 		}
+		.sec1:hover{
+			background-color: #FE0297;
+		}
+		.sec2:hover{
+			background-color: #FE0297;
+		}
+		.sec3:hover{
+			background-color: #FE0297;
+		}
 		.btn{
 			margin-left: 105px;
 			padding:1%; 
+		}
+		.btn:hover{
+			background-color: #000;
+			color: #fff;
 		}
 		}
 	
